@@ -86,17 +86,17 @@ header nav .links ul li a{
     letter-spacing: 0;
     color: #FFFFFF;
 }
-header nav .hamburger {
+.hamburger {
     display: none;
     cursor: pointer;
 }
 header nav .hamburger img {
     width: 30px;
 }
-header nav #navLinks {
+#navLinks {
     transition: right 0.3s ease-in-out;
 }
-header nav .close-btn{
+.close-btn{
     display: none;
 }
 header nav .contact-btn button{
